@@ -1,4 +1,4 @@
-# chrome-quick-start
+# chrome-extension-quick-start
 
 Clone to try a simple chrome extension
 
